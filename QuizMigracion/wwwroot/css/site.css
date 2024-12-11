@@ -20,3 +20,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
